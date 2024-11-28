@@ -1,0 +1,579 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		04B7F73EA82029267590F514 /* ShortestCaballerInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF159E72E829CB2C44BAEC4 /* ShortestCaballerInfo.swift */; };
+		08F0FB7A45A2F5D721E850DB /* Pods_AgaranPeso.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 840B4CE1659D4662161D95D4 /* Pods_AgaranPeso.framework */; };
+		091F23CF7ECA7B9FFDAD0224 /* DemarshalActivateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE791FED9C06A68A324D8C4 /* DemarshalActivateViewController.swift */; };
+		0B42FA3B54E5C2DE6439B035 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8005BD7C7038C956CC742899 /* Assets.xcassets */; };
+		10A5025FFB6DD29ABA9BA0C6 /* SabaeanAlphabeticalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609709D6F602BF4885CD485E /* SabaeanAlphabeticalViewController.swift */; };
+		14A6AAE9CA6640A1B4BC8EA0 /* EaglewoodTableConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40214A1B6D4F5F5F219AFF31 /* EaglewoodTableConfig.swift */; };
+		18341395AA821A519CD29B62 /* PointerDacquoisePhotoConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F8964BC104A44CFAF85520 /* PointerDacquoisePhotoConfig.swift */; };
+		1CFDE134B1B6BBFE532154AD /* TransitiveXanthippeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85991903F3CB1383720D4F1 /* TransitiveXanthippeViewController.swift */; };
+		2961E70C2DBE1639C1AB9F93 /* HabanaWaddieViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B97373883A2D5773C3BAEA /* HabanaWaddieViewController.swift */; };
+		3A4ADFDE8D092C0FEC7F081C /* sflight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 878A193BC961D00BDC5E7960 /* sflight.ttf */; };
+		3B0735427B74DCB54A42A928 /* AahWindowsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97997B42DC18B622B448339C /* AahWindowsViewController.swift */; };
+		42272811E87577A6B64CD742 /* BackgroundHandLocationConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B24F6C149E06D0AC639248 /* BackgroundHandLocationConfig.swift */; };
+		4477CF84AC4269EA466CA55F /* TranslationImmediateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59F18184DDB0848FE2BFA4D /* TranslationImmediateViewController.swift */; };
+		4D97BD9B1B1EE20975EF004E /* OaklingOaklingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D251B000F59F943922757364 /* OaklingOaklingView.swift */; };
+		505C5A012D09B64C988763B1 /* WhereTriangulationMessInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF1B62B1536B9D553309E48 /* WhereTriangulationMessInfo.swift */; };
+		547545314AA9A6A2F985A21B /* MessageOperationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B715E6C945FFD7937619B8 /* MessageOperationViewController.swift */; };
+		54F488C56B5A68C180381D89 /* FeedbackNumericalBothModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16794370BC60161D0AF2DFCC /* FeedbackNumericalBothModels.swift */; };
+		577F7A8AF1AACB115593FD14 /* XsltJabberwockyInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D85B1A52EFE48E07CB1131 /* XsltJabberwockyInfo.swift */; };
+		712992A2A2BCB2D16359AA19 /* TcpEagernessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36A864C6CA33B1B703486CD5 /* TcpEagernessViewController.swift */; };
+		736511CF2CF8B3F7007F8F52 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 736511CE2CF8B3F7007F8F52 /* Launch Screen.storyboard */; };
+		941A46FF84C1A7580104C80D /* BracketVaaljapieRequestManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 313B2AE362BAEDBFAA8FE0F2 /* BracketVaaljapieRequestManager.swift */; };
+		98D5E1F057690F5A61ED8847 /* LiberticideShapeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90F42EE8DAAEF3B542C5E28C /* LiberticideShapeViewController.swift */; };
+		9A68EEFA8AE50B349B2B8E4C /* KafEaglestoneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389AC475EBBDEE27F48B3021 /* KafEaglestoneViewController.swift */; };
+		ADE764F9AEC7AB8E1392D32E /* BaathistWaddingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 343394C2E263110EF9D62D13 /* BaathistWaddingViewController.swift */; };
+		AE541BC8D27BFF83DB1AE6AA /* SabaothDomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB7B7F443D3BFF93D7BE7DFA /* SabaothDomViewController.swift */; };
+		B1918660806B6F0325E28B20 /* QdaOpenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8754F5EC611BB78BF4A949D9 /* QdaOpenViewController.swift */; };
+		B6BCD0936320C129F63B748C /* sfsemibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6D5A164C217DDF402C90DE00 /* sfsemibold.ttf */; };
+		C4806978ACFB35DF83872639 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F941AB3AE41C99B3CCA77C /* AppDelegate.swift */; };
+		C4DFE952A4D46BC97A214EB0 /* WildcardFontPopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8335F10C223582844C801E88 /* WildcardFontPopView.swift */; };
+		C7CA20FD0D5DDCD45315F2E9 /* QcbForwardingHomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0974CE1860414F2375B6B5B4 /* QcbForwardingHomeView.swift */; };
+		D6394C79E6487A4E1F246A27 /* LabdanumIconViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C540AFCC3FB7F6820152E323 /* LabdanumIconViewController.swift */; };
+		DDF3375445341E98664A39A4 /* A2AQandaharDelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90454B235FE5E6E60BE1A55A /* A2AQandaharDelView.swift */; };
+		E930F0D62E01C8C4A259D44E /* ThreadIafViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6629B2C4802F4F407AB148 /* ThreadIafViewController.swift */; };
+		ECD9A1A126CF82AC276AF84B /* YachtyCastingInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F03036B10AACA7A294EAAB1 /* YachtyCastingInfo.swift */; };
+		F4DEF2891FC9813400CD2FD8 /* SiblingPointViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C89EEF711033E75098EF011 /* SiblingPointViewController.swift */; };
+		F9A679235B65D363E515BB02 /* BrowserBaalismViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9ABFE6E237536F0347FA435 /* BrowserBaalismViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0974CE1860414F2375B6B5B4 /* QcbForwardingHomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QcbForwardingHomeView.swift; sourceTree = "<group>"; };
+		16794370BC60161D0AF2DFCC /* FeedbackNumericalBothModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedbackNumericalBothModels.swift; sourceTree = "<group>"; };
+		21B715E6C945FFD7937619B8 /* MessageOperationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageOperationViewController.swift; sourceTree = "<group>"; };
+		313B2AE362BAEDBFAA8FE0F2 /* BracketVaaljapieRequestManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BracketVaaljapieRequestManager.swift; sourceTree = "<group>"; };
+		343394C2E263110EF9D62D13 /* BaathistWaddingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaathistWaddingViewController.swift; sourceTree = "<group>"; };
+		36A864C6CA33B1B703486CD5 /* TcpEagernessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TcpEagernessViewController.swift; sourceTree = "<group>"; };
+		389AC475EBBDEE27F48B3021 /* KafEaglestoneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KafEaglestoneViewController.swift; sourceTree = "<group>"; };
+		40214A1B6D4F5F5F219AFF31 /* EaglewoodTableConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EaglewoodTableConfig.swift; sourceTree = "<group>"; };
+		40D85B1A52EFE48E07CB1131 /* XsltJabberwockyInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XsltJabberwockyInfo.swift; sourceTree = "<group>"; };
+		45B24F6C149E06D0AC639248 /* BackgroundHandLocationConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundHandLocationConfig.swift; sourceTree = "<group>"; };
+		4D6629B2C4802F4F407AB148 /* ThreadIafViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadIafViewController.swift; sourceTree = "<group>"; };
+		609709D6F602BF4885CD485E /* SabaeanAlphabeticalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SabaeanAlphabeticalViewController.swift; sourceTree = "<group>"; };
+		6AF1B62B1536B9D553309E48 /* WhereTriangulationMessInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhereTriangulationMessInfo.swift; sourceTree = "<group>"; };
+		6C89EEF711033E75098EF011 /* SiblingPointViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SiblingPointViewController.swift; sourceTree = "<group>"; };
+		6D5A164C217DDF402C90DE00 /* sfsemibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sfsemibold.ttf; sourceTree = "<group>"; };
+		70F941AB3AE41C99B3CCA77C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		71F8964BC104A44CFAF85520 /* PointerDacquoisePhotoConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PointerDacquoisePhotoConfig.swift; sourceTree = "<group>"; };
+		736511CE2CF8B3F7007F8F52 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		76321526B10C9DEFD443723E /* Pods-AgaranPeso.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AgaranPeso.release.xcconfig"; path = "Target Support Files/Pods-AgaranPeso/Pods-AgaranPeso.release.xcconfig"; sourceTree = "<group>"; };
+		7F03036B10AACA7A294EAAB1 /* YachtyCastingInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YachtyCastingInfo.swift; sourceTree = "<group>"; };
+		8005BD7C7038C956CC742899 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		81B97373883A2D5773C3BAEA /* HabanaWaddieViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HabanaWaddieViewController.swift; sourceTree = "<group>"; };
+		8335F10C223582844C801E88 /* WildcardFontPopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WildcardFontPopView.swift; sourceTree = "<group>"; };
+		840B4CE1659D4662161D95D4 /* Pods_AgaranPeso.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AgaranPeso.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8754F5EC611BB78BF4A949D9 /* QdaOpenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QdaOpenViewController.swift; sourceTree = "<group>"; };
+		878A193BC961D00BDC5E7960 /* sflight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sflight.ttf; sourceTree = "<group>"; };
+		90454B235FE5E6E60BE1A55A /* A2AQandaharDelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A2AQandaharDelView.swift; sourceTree = "<group>"; };
+		90F42EE8DAAEF3B542C5E28C /* LiberticideShapeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiberticideShapeViewController.swift; sourceTree = "<group>"; };
+		97997B42DC18B622B448339C /* AahWindowsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AahWindowsViewController.swift; sourceTree = "<group>"; };
+		9BE791FED9C06A68A324D8C4 /* DemarshalActivateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemarshalActivateViewController.swift; sourceTree = "<group>"; };
+		A85991903F3CB1383720D4F1 /* TransitiveXanthippeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitiveXanthippeViewController.swift; sourceTree = "<group>"; };
+		AB7B7F443D3BFF93D7BE7DFA /* SabaothDomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SabaothDomViewController.swift; sourceTree = "<group>"; };
+		BDF159E72E829CB2C44BAEC4 /* ShortestCaballerInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestCaballerInfo.swift; sourceTree = "<group>"; };
+		C40A422EBBAD5E099C3B32E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C540AFCC3FB7F6820152E323 /* LabdanumIconViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabdanumIconViewController.swift; sourceTree = "<group>"; };
+		D251B000F59F943922757364 /* OaklingOaklingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OaklingOaklingView.swift; sourceTree = "<group>"; };
+		D4A0356D0030E2AA43051D38 /* Pods-AgaranPeso.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AgaranPeso.debug.xcconfig"; path = "Target Support Files/Pods-AgaranPeso/Pods-AgaranPeso.debug.xcconfig"; sourceTree = "<group>"; };
+		D9477ADF01C1DE409EBE43CC /* AgaranPeso.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = AgaranPeso.entitlements; sourceTree = "<group>"; };
+		D9ABFE6E237536F0347FA435 /* BrowserBaalismViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrowserBaalismViewController.swift; sourceTree = "<group>"; };
+		E59F18184DDB0848FE2BFA4D /* TranslationImmediateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslationImmediateViewController.swift; sourceTree = "<group>"; };
+		E7B8AF431378489DF96DB7BB /* AgaranPeso.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AgaranPeso.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AFC94D7ACBC98CA6F26159AD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				08F0FB7A45A2F5D721E850DB /* Pods_AgaranPeso.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0936FE7ED4078D8D749A7747 = {
+			isa = PBXGroup;
+			children = (
+				736511CE2CF8B3F7007F8F52 /* Launch Screen.storyboard */,
+				63EF3536773A8EAEC52B4B2F /* AgaranPeso */,
+				4A2747C3B7BFFD702E38B180 /* Products */,
+				F5826BC1C537B067A398484F /* Pods */,
+				F1FD6FA9901E849A0B35986B /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		4A2747C3B7BFFD702E38B180 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E7B8AF431378489DF96DB7BB /* AgaranPeso.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		63EF3536773A8EAEC52B4B2F /* AgaranPeso */ = {
+			isa = PBXGroup;
+			children = (
+				D9477ADF01C1DE409EBE43CC /* AgaranPeso.entitlements */,
+				C40A422EBBAD5E099C3B32E3 /* Info.plist */,
+				878A193BC961D00BDC5E7960 /* sflight.ttf */,
+				6D5A164C217DDF402C90DE00 /* sfsemibold.ttf */,
+				8005BD7C7038C956CC742899 /* Assets.xcassets */,
+				40214A1B6D4F5F5F219AFF31 /* EaglewoodTableConfig.swift */,
+				70F941AB3AE41C99B3CCA77C /* AppDelegate.swift */,
+				16794370BC60161D0AF2DFCC /* FeedbackNumericalBothModels.swift */,
+				7F03036B10AACA7A294EAAB1 /* YachtyCastingInfo.swift */,
+				BDF159E72E829CB2C44BAEC4 /* ShortestCaballerInfo.swift */,
+				40D85B1A52EFE48E07CB1131 /* XsltJabberwockyInfo.swift */,
+				45B24F6C149E06D0AC639248 /* BackgroundHandLocationConfig.swift */,
+				71F8964BC104A44CFAF85520 /* PointerDacquoisePhotoConfig.swift */,
+				313B2AE362BAEDBFAA8FE0F2 /* BracketVaaljapieRequestManager.swift */,
+				36A864C6CA33B1B703486CD5 /* TcpEagernessViewController.swift */,
+				21B715E6C945FFD7937619B8 /* MessageOperationViewController.swift */,
+				AB7B7F443D3BFF93D7BE7DFA /* SabaothDomViewController.swift */,
+				6AF1B62B1536B9D553309E48 /* WhereTriangulationMessInfo.swift */,
+				C540AFCC3FB7F6820152E323 /* LabdanumIconViewController.swift */,
+				D251B000F59F943922757364 /* OaklingOaklingView.swift */,
+				4D6629B2C4802F4F407AB148 /* ThreadIafViewController.swift */,
+				90454B235FE5E6E60BE1A55A /* A2AQandaharDelView.swift */,
+				8335F10C223582844C801E88 /* WildcardFontPopView.swift */,
+				0974CE1860414F2375B6B5B4 /* QcbForwardingHomeView.swift */,
+				81B97373883A2D5773C3BAEA /* HabanaWaddieViewController.swift */,
+				609709D6F602BF4885CD485E /* SabaeanAlphabeticalViewController.swift */,
+				6C89EEF711033E75098EF011 /* SiblingPointViewController.swift */,
+				D9ABFE6E237536F0347FA435 /* BrowserBaalismViewController.swift */,
+				90F42EE8DAAEF3B542C5E28C /* LiberticideShapeViewController.swift */,
+				389AC475EBBDEE27F48B3021 /* KafEaglestoneViewController.swift */,
+				343394C2E263110EF9D62D13 /* BaathistWaddingViewController.swift */,
+				A85991903F3CB1383720D4F1 /* TransitiveXanthippeViewController.swift */,
+				97997B42DC18B622B448339C /* AahWindowsViewController.swift */,
+				8754F5EC611BB78BF4A949D9 /* QdaOpenViewController.swift */,
+				E59F18184DDB0848FE2BFA4D /* TranslationImmediateViewController.swift */,
+				9BE791FED9C06A68A324D8C4 /* DemarshalActivateViewController.swift */,
+			);
+			path = AgaranPeso;
+			sourceTree = "<group>";
+		};
+		F1FD6FA9901E849A0B35986B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				840B4CE1659D4662161D95D4 /* Pods_AgaranPeso.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F5826BC1C537B067A398484F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D4A0356D0030E2AA43051D38 /* Pods-AgaranPeso.debug.xcconfig */,
+				76321526B10C9DEFD443723E /* Pods-AgaranPeso.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A68466896A29A49D642FFAD3 /* AgaranPeso */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 888EF8D5980CFC63AFDB642E /* Build configuration list for PBXNativeTarget "AgaranPeso" */;
+			buildPhases = (
+				30B5D85EE4592AD7AE6B3495 /* [CP] Check Pods Manifest.lock */,
+				89FA253E491D34B00332BA4B /* Sources */,
+				AFC94D7ACBC98CA6F26159AD /* Frameworks */,
+				48475918C236984AD5D8B284 /* Resources */,
+				93C0844CBCFEDB6AA592B742 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AgaranPeso;
+			productName = AgaranPeso;
+			productReference = E7B8AF431378489DF96DB7BB /* AgaranPeso.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		516E9539B868314F60284A0C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					A68466896A29A49D642FFAD3 = {
+						CreatedOnToolsVersion = 16.0;
+						LastSwiftMigration = 1600;
+					};
+				};
+			};
+			buildConfigurationList = 07BBE4A2830A6161D98F7D31 /* Build configuration list for PBXProject "AgaranPeso" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0936FE7ED4078D8D749A7747;
+			productRefGroup = 4A2747C3B7BFFD702E38B180 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A68466896A29A49D642FFAD3 /* AgaranPeso */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		48475918C236984AD5D8B284 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3A4ADFDE8D092C0FEC7F081C /* sflight.ttf in Resources */,
+				B6BCD0936320C129F63B748C /* sfsemibold.ttf in Resources */,
+				736511CF2CF8B3F7007F8F52 /* Launch Screen.storyboard in Resources */,
+				0B42FA3B54E5C2DE6439B035 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		30B5D85EE4592AD7AE6B3495 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-AgaranPeso-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		93C0844CBCFEDB6AA592B742 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AgaranPeso/Pods-AgaranPeso-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AgaranPeso/Pods-AgaranPeso-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AgaranPeso/Pods-AgaranPeso-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		89FA253E491D34B00332BA4B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				941A46FF84C1A7580104C80D /* BracketVaaljapieRequestManager.swift in Sources */,
+				C4806978ACFB35DF83872639 /* AppDelegate.swift in Sources */,
+				4477CF84AC4269EA466CA55F /* TranslationImmediateViewController.swift in Sources */,
+				577F7A8AF1AACB115593FD14 /* XsltJabberwockyInfo.swift in Sources */,
+				712992A2A2BCB2D16359AA19 /* TcpEagernessViewController.swift in Sources */,
+				F4DEF2891FC9813400CD2FD8 /* SiblingPointViewController.swift in Sources */,
+				9A68EEFA8AE50B349B2B8E4C /* KafEaglestoneViewController.swift in Sources */,
+				04B7F73EA82029267590F514 /* ShortestCaballerInfo.swift in Sources */,
+				C7CA20FD0D5DDCD45315F2E9 /* QcbForwardingHomeView.swift in Sources */,
+				F9A679235B65D363E515BB02 /* BrowserBaalismViewController.swift in Sources */,
+				AE541BC8D27BFF83DB1AE6AA /* SabaothDomViewController.swift in Sources */,
+				D6394C79E6487A4E1F246A27 /* LabdanumIconViewController.swift in Sources */,
+				547545314AA9A6A2F985A21B /* MessageOperationViewController.swift in Sources */,
+				1CFDE134B1B6BBFE532154AD /* TransitiveXanthippeViewController.swift in Sources */,
+				E930F0D62E01C8C4A259D44E /* ThreadIafViewController.swift in Sources */,
+				3B0735427B74DCB54A42A928 /* AahWindowsViewController.swift in Sources */,
+				ADE764F9AEC7AB8E1392D32E /* BaathistWaddingViewController.swift in Sources */,
+				DDF3375445341E98664A39A4 /* A2AQandaharDelView.swift in Sources */,
+				18341395AA821A519CD29B62 /* PointerDacquoisePhotoConfig.swift in Sources */,
+				505C5A012D09B64C988763B1 /* WhereTriangulationMessInfo.swift in Sources */,
+				98D5E1F057690F5A61ED8847 /* LiberticideShapeViewController.swift in Sources */,
+				2961E70C2DBE1639C1AB9F93 /* HabanaWaddieViewController.swift in Sources */,
+				4D97BD9B1B1EE20975EF004E /* OaklingOaklingView.swift in Sources */,
+				B1918660806B6F0325E28B20 /* QdaOpenViewController.swift in Sources */,
+				10A5025FFB6DD29ABA9BA0C6 /* SabaeanAlphabeticalViewController.swift in Sources */,
+				ECD9A1A126CF82AC276AF84B /* YachtyCastingInfo.swift in Sources */,
+				091F23CF7ECA7B9FFDAD0224 /* DemarshalActivateViewController.swift in Sources */,
+				C4DFE952A4D46BC97A214EB0 /* WildcardFontPopView.swift in Sources */,
+				14A6AAE9CA6640A1B4BC8EA0 /* EaglewoodTableConfig.swift in Sources */,
+				54F488C56B5A68C180381D89 /* FeedbackNumericalBothModels.swift in Sources */,
+				42272811E87577A6B64CD742 /* BackgroundHandLocationConfig.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		35B9D0AD20336C0D4179A55B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4E99D2A2A9857461A224E6E8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D4A0356D0030E2AA43051D38 /* Pods-AgaranPeso.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = AgaranPeso/AgaranPeso.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = XS8842FK7N;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = AgaranPeso/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Agaran Peso";
+				INFOPLIST_KEY_NSCameraUsageDescription = "To verify your identity, we require access to your device's camera. This allows you to capture and securely submit clear images of your identification documents, such as IDs, driver’s licenses, or passports, directly through the app.  \n";
+				INFOPLIST_KEY_NSContactsUsageDescription = "Access to your contact list simplifies the process of adding emergency contacts when setting up your loan account. This ensures effective communication and supports a smooth loan application experience.";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "Your location data is essential for evaluating risk and ensuring transaction security during your loan application. In cases where loans are requested in unfamiliar areas, this information helps us assess potential risks and prevent fraud, ensuring safe and legitimate transactions.  ";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Your location data is essential for evaluating risk and ensuring transaction security during your loan application. In cases where loans are requested in unfamiliar areas, this information helps us assess potential risks and prevent fraud, ensuring safe and legitimate transactions.  ";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Granting access to your photo gallery enables you to upload pre-existing images of your identification documents for identity verification. This streamlines the process, making it faster and more convenient for you.  ";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use your device’s Advertising Identifier (IDFA) to better understand your financial preferences and habits. This helps us provide personalized loan recommendations tailored to your needs, offering you a more customized experience. ";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = test.app.ald.com;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = testappaldprofile;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		8D5E473FB34F2AED252BE040 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 76321526B10C9DEFD443723E /* Pods-AgaranPeso.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = AgaranPeso/AgaranPeso.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = XS8842FK7N;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = AgaranPeso/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Agaran Peso";
+				INFOPLIST_KEY_NSCameraUsageDescription = "To verify your identity, we require access to your device's camera. This allows you to capture and securely submit clear images of your identification documents, such as IDs, driver’s licenses, or passports, directly through the app.  \n";
+				INFOPLIST_KEY_NSContactsUsageDescription = "Access to your contact list simplifies the process of adding emergency contacts when setting up your loan account. This ensures effective communication and supports a smooth loan application experience.";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "Your location data is essential for evaluating risk and ensuring transaction security during your loan application. In cases where loans are requested in unfamiliar areas, this information helps us assess potential risks and prevent fraud, ensuring safe and legitimate transactions.  ";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Your location data is essential for evaluating risk and ensuring transaction security during your loan application. In cases where loans are requested in unfamiliar areas, this information helps us assess potential risks and prevent fraud, ensuring safe and legitimate transactions.  ";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Granting access to your photo gallery enables you to upload pre-existing images of your identification documents for identity verification. This streamlines the process, making it faster and more convenient for you.  ";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use your device’s Advertising Identifier (IDFA) to better understand your financial preferences and habits. This helps us provide personalized loan recommendations tailored to your needs, offering you a more customized experience. ";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = test.app.ald.com;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = testappaldprofile;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		E8BA4304DD748571CA57AD68 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		07BBE4A2830A6161D98F7D31 /* Build configuration list for PBXProject "AgaranPeso" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E8BA4304DD748571CA57AD68 /* Debug */,
+				35B9D0AD20336C0D4179A55B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		888EF8D5980CFC63AFDB642E /* Build configuration list for PBXNativeTarget "AgaranPeso" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E99D2A2A9857461A224E6E8 /* Debug */,
+				8D5E473FB34F2AED252BE040 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 516E9539B868314F60284A0C /* Project object */;
+}

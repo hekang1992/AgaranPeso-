@@ -1,0 +1,6 @@
+framework module Pods_AgaranPeso {
+  umbrella header "Pods-AgaranPeso-umbrella.h"
+
+  export *
+  module * { export * }
+}
